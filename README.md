@@ -1,1 +1,1 @@
-# single_price_grid
+# single_price_grid_component
